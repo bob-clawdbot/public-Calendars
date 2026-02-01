@@ -33,7 +33,7 @@ The 2026 calendar covers a once-in-a-lifetime convergence of 4 eclipses with opt
 ## 🔗 Calendar Import URL
 
 ```
-https://raw.githubusercontent.com/bobclawdbot/public-Calendars/main/AstroFinance.ical
+https://raw.githubusercontent.com/bob-clawdbot/public-Calendars/main/AstroFinance.ical
 ```
 
 ## ⚠️ Disclaimer
