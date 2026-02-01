@@ -189,4 +189,164 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 
+BEGIN:VEVENT
+UID:eclipse-1-exit-1@astrofinance.com
+DTSTART:20260220T143000Z
+DTEND:20260220T153000Z
+SUMMARY:💰 Eclipse 1 Exit Target 1 - First Profit Taking (Feb 17 Eclipse)
+DESCRIPTION:ECLIPSE 1 - FIRST PROFIT TAKING WINDOW\n\nTarget 1 exit for Feb 17 Solar Eclipse positions\n\nEXIT INSTRUCTIONS:\n• SCALE OUT 25% of positions at +3% profit\n• Monitor for continuation vs reversal signals\n• Maintain 75% of positions for Target 2\n• Tighten stops on remaining positions\n\nPOSITION MANAGEMENT:\n• If positions at +3%: Take partial profits\n• If positions flat/negative: Hold for Target 2\n• If positions at +5%: Consider taking 50%\n• Update stop-losses to break-even\n\nNEXT TARGETS:\n• Target 2: Feb 24 (+8% profit goal)\n• Final exit: Feb 28 (mandatory time stop)\n\nMARKET ANALYSIS:\n• Review volatility levels post-eclipse\n• Monitor financial sector performance\n• Assess crisis signals developing\n• Prepare for potential extension if strong momentum
+CATEGORIES:Trade Exit,Profit Taking,Eclipse 1
+LOCATION:Global Markets
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:💰 PROFIT TAKING - Scale out 25% of Eclipse 1 positions at +3% profit
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:eclipse-1-exit-final@astrofinance.com
+DTSTART:20260224T143000Z
+DTEND:20260224T153000Z
+SUMMARY:🔚 Eclipse 1 Final Exit - Target 2 & Strategy Completion
+DESCRIPTION:ECLIPSE 1 - FINAL EXIT WINDOW\n\nTarget 2 and final exit for Feb 17 Solar Eclipse positions\n\nFINAL EXIT INSTRUCTIONS:\n• CLOSE remaining 75% positions at +8% or best available\n• MANDATORY exit regardless of profit level\n• Close all VIX calls and SPX puts\n• Calculate final Eclipse 1 returns\n• Prepare capital for Eclipse 2\n\nEXIT CHECKLIST:\n• Close all remaining PUT positions\n• Close all VIX call positions\n• Cancel any outstanding stop orders\n• Document trade results and lessons learned\n• Free up capital for Mar 3 eclipse\n\nPOST-TRADE ANALYSIS:\n• Calculate total return vs 2% risk\n• Analyze what worked vs strategy expectations\n• Note any pattern deviations for Eclipse 2\n• Update strategy based on results\n\nNEXT PHASE:\n• Prepare for Eclipse 2 (Mar 3)\n• Use profits to fund larger positions\n• Review amplification strategy requirements\n\nMAXIMUM HOLD PERIOD: Exit all by Feb 28 (time stop)
+CATEGORIES:Trade Exit,Final Exit,Eclipse 1
+LOCATION:Global Markets
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🔚 FINAL EXIT - Close all remaining Eclipse 1 positions TODAY
+TRIGGER:-PT4H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:MANDATORY EXIT - Close all positions by market close
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:eclipse-2-exit-1@astrofinance.com
+DTSTART:20260306T143000Z
+DTEND:20260306T153000Z
+SUMMARY:💰 Eclipse 2 Exit Target 1 - First Profit Taking (Mar 3 Eclipse)
+DESCRIPTION:ECLIPSE 2 - FIRST PROFIT TAKING WINDOW\n\nTarget 1 exit for Mar 3 Lunar Eclipse positions\n\nEXIT INSTRUCTIONS:\n• SCALE OUT 25% positions at +5% profit\n• Amplification strategy working as expected\n• Monitor trend continuation strength\n• Maintain 75% for extended Target 2\n\nAMPLIFICATION ASSESSMENT:\n• Did eclipse amplify existing trend as predicted?\n• Are we seeing 1.5-2x normal market movement?\n• Is volatility sustaining vs collapsing?\n• Strong amplification = hold for Target 2\n\nPOSITION MANAGEMENT:\n• +5% profit: Scale out 25%\n• +8% profit: Scale out 50% \n• Flat/negative: Hold all positions\n• Trail stops on remaining positions\n\nNEXT TARGETS:\n• Target 2: Mar 10 (+12% profit goal)\n• Final exit: Mar 14 (mandatory time stop)\n\nHIGH MAGNITUDE IMPACT:\nThis eclipse (1.1507 magnitude) should show stronger\neffects than normal Saros 133 eclipses
+CATEGORIES:Trade Exit,Profit Taking,Eclipse 2
+LOCATION:Global Markets
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:💰 AMPLIFICATION PROFITS - Scale out 25% at +5% profit
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:eclipse-2-exit-final@astrofinance.com
+DTSTART:20260310T143000Z
+DTEND:20260310T153000Z
+SUMMARY:🔚 Eclipse 2 Final Exit - Target 2 & Amplification Completion
+DESCRIPTION:ECLIPSE 2 - FINAL EXIT WINDOW\n\nFinal exit for Mar 3 Lunar Eclipse amplification strategy\n\nFINAL EXIT INSTRUCTIONS:\n• CLOSE all remaining positions at +12% or best available\n• MANDATORY exit regardless of profit level\n• Close all trend amplification positions\n• Document amplification effectiveness\n• Prepare maximum capital for Aug 12 PRIMARY opportunity\n\nCOMPLETION TASKS:\n• Close all trend-following positions\n• Close momentum amplification trades\n• Cancel outstanding orders\n• Calculate Eclipse 2 total returns\n• Analyze amplification accuracy vs historical\n\nPRIMARY OPPORTUNITY PREP:\n• Eclipse 1 + 2 profits fund Eclipse 3\n• Aug 12 gets 40% of total eclipse allocation\n• Begin 5-month preparation for maximum opportunity\n• Review multi-strategy approach for Saros 126\n\nAMPLIFICATION LESSONS:\n• Did high magnitude create expected 1.5-2x effect?\n• Which timeframes showed strongest amplification?\n• Was trend direction properly identified?\n• Apply lessons to Aug 12 directional strategy\n\nSUCCESS METRICS: Target +8% to +35% on this eclipse
+CATEGORIES:Trade Exit,Final Exit,Eclipse 2
+LOCATION:Global Markets
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🔚 AMPLIFICATION EXIT - Close all Eclipse 2 positions TODAY
+TRIGGER:-PT4H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:MANDATORY - Complete amplification strategy exit
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:eclipse-3-exit-1@astrofinance.com
+DTSTART:20260815T143000Z
+DTEND:20260815T153000Z
+SUMMARY:💰 Eclipse 3 Exit Target 1 - First Profit Window (Aug 12 PRIMARY)
+DESCRIPTION:ECLIPSE 3 - FIRST PROFIT TAKING WINDOW\n\n⭐ PRIMARY OPPORTUNITY - First profit window\n\nTARGET 1 EXIT INSTRUCTIONS:\n• Volatility Strategy: Scale out 25% at +10% profit\n• Directional Strategy: Scale out 25% at +15% profit  \n• Sector Rotation: Hold all positions (early)\n• Assess which strategy performing best\n\nSTRATEGY-SPECIFIC EXITS:\n\nVOLATILITY EXPLOSION:\n• VIX calls showing +30%: Take 50%\n• SPX straddles +15%: Take 25%\n• Maintain core position for bigger move\n\nDIRECTIONAL TURN:\n• Clear turn confirmed: Hold all positions\n• False signal: Exit 50% immediately\n• Strong momentum: Add to positions\n\nMARKET ASSESSMENT:\n• Is this THE major turn predicted?\n• Are we seeing structural shift signals?\n• International markets confirming?\n• Prepare for extended hold if major turn confirmed\n\nNEXT TARGETS:\n• Target 2: Aug 19 (+25% profit goal)\n• Target 3: Aug 26 (+50% profit goal)\n• Mandatory review before Eclipse 4 (Aug 28)\n\nThis is the PRIMARY opportunity - manage carefully!
+CATEGORIES:Trade Exit,Profit Taking,Primary Opportunity
+LOCATION:Global Markets
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⭐ PRIMARY PROFITS - Take first profits on best performing strategy
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:eclipse-3-exit-2@astrofinance.com
+DTSTART:20260819T143000Z
+DTEND:20260819T153000Z
+SUMMARY:💰 Eclipse 3 Exit Target 2 - Major Profit Taking (Aug 12 PRIMARY)
+DESCRIPTION:ECLIPSE 3 - MAJOR PROFIT TAKING WINDOW\n\n⭐ PRIMARY OPPORTUNITY - Target 2 profits\n\nTARGET 2 EXIT INSTRUCTIONS:\n• Take 50% profits on ALL strategies showing +25%\n• This is major profit protection level\n• Maintain 50% positions for potential +50% target\n• Review market structure change evidence\n\nSTRATEGY MANAGEMENT:\n\nVOLATILITY POSITIONS:\n• VIX showing +50%+: Take 75% profits\n• Straddles +30%+: Take 50% profits\n• Keep core vol position for potential spike continuation\n\nDIRECTIONAL TRADES:\n• Major turn confirmed: Keep all positions\n• +35% profits reached: Scale out 50%\n• Trail stops on remaining positions\n\nSECTOR ROTATION:\n• Strong rotation signals: Keep positions\n• +20% profits: Take 50%\n• Add to winning rotations\n\nMARKET STRUCTURE:\n• Has major turn been confirmed?\n• Are we in new trend or false break?\n• International markets following through?\n• Prepare strategy for Eclipse 4 based on results\n\nTARGET 3: Aug 26 (+50% goal before Eclipse 4)\n\nMAJOR OPPORTUNITY - Don't let perfect become enemy of great!
+CATEGORIES:Trade Exit,Major Profit Taking,Primary Opportunity
+LOCATION:Global Markets
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⭐ MAJOR PROFITS - Take 50% profits on +25% positions
+TRIGGER:-PT3H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PRIMARY OPPORTUNITY - Review all positions for profit taking
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:eclipse-3-exit-3@astrofinance.com
+DTSTART:20260826T143000Z
+DTEND:20260826T153000Z
+SUMMARY:💰 Eclipse 3 Exit Target 3 - Pre-Eclipse 4 Position Reduction
+DESCRIPTION:ECLIPSE 3 - PRE-ECLIPSE 4 REDUCTION\n\n⭐ PRIMARY OPPORTUNITY - Final major exit before Eclipse 4\n\nPOSITION REDUCTION GOALS:\n• Reduce to 25% of original Eclipse 3 positions\n• Take 75% profits on ALL strategies\n• Free up capital for Eclipse 4 (Aug 28)\n• Lock in majority of PRIMARY opportunity gains\n\nFINAL PROFIT TAKING:\n• Target 3 reached (+50%): Take 75% profits\n• +35% or better: Take 75% profits  \n• Below +35%: Take 50% profits\n• Keep 25% for potential Eclipse 4 momentum\n\nSTRATEGY COMPLETION:\n• Volatility: Close majority\, keep small position\n• Directional: Keep core if major turn confirmed\n• Sector: Close rotations\, keep long-term winners\n\nECLIPSE 4 PREPARATION:\n• Use Eclipse 3 profits to fund Eclipse 4\n• Determine momentum direction for cycle completion\n• Prepare cycle completion strategy (Aug 28)\n\nCAPITAL MANAGEMENT:\n• Eclipse 3 profits → Eclipse 4 funding\n• Don't risk major gains on final eclipse\n• Systematic risk reduction before final event\n\nThis completes the PRIMARY OPPORTUNITY phase!\nEclipse 4 is cycle completion\, not primary profit source.
+CATEGORIES:Trade Exit,Position Reduction,Primary Opportunity
+LOCATION:Global Markets
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⭐ POSITION REDUCTION - Take 75% profits, prepare for Eclipse 4
+TRIGGER:-PT4H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:MANDATORY - Reduce positions before Eclipse 4
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:eclipse-4-exit-1@astrofinance.com
+DTSTART:20260902T143000Z
+DTEND:20260902T153000Z
+SUMMARY:💰 Eclipse 4 Exit Target 1 - Cycle Completion Profits
+DESCRIPTION:ECLIPSE 4 - FIRST PROFIT TAKING\n\nCycle completion strategy - Target 1\n\nEXIT INSTRUCTIONS:\n• Scale out 25% at +8% profit\n• This is cycle completion\, not primary opportunity\n• Monitor compound eclipse effects (2 weeks after Eclipse 3)\n• Maintain 75% for Target 2\n\nCYCLE COMPLETION ASSESSMENT:\n• Are Eclipse 3 trends continuing?\n• Compound effect visible in markets?\n• Momentum from Aug 12 still intact?\n• Signs of cycle energy culmination?\n\nPOSITION MANAGEMENT:\n• +8% profit: Take 25%\n• Strong momentum: Hold majority\n• Weak follow-through: Consider larger exit\n• Trail stops on all positions\n\nCAPITAL PRESERVATION:\n• This eclipse uses Eclipse 3 profits\n• Don't risk major campaign gains\n• Focus on cycle completion vs major profits\n• Prepare for systematic campaign closure\n\nNEXT TARGETS:\n• Target 2: Sep 9 (+15% goal)\n• Campaign completion: Sep 15\n• Final analysis: Sep 30\n\nHISTORICAL NOTE: Aug 16 2008 preceded September crash\nMonitor for similar pattern development
+CATEGORIES:Trade Exit,Cycle Completion,Eclipse 4
+LOCATION:Global Markets
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:💰 CYCLE PROFITS - Take 25% profits on completion strategy
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:eclipse-4-exit-final@astrofinance.com
+DTSTART:20260909T143000Z
+DTEND:20260909T153000Z
+SUMMARY:🔚 Eclipse 4 Final Exit - Campaign Completion Window
+DESCRIPTION:ECLIPSE 4 - FINAL EXIT WINDOW\n\n🏁 CAMPAIGN COMPLETION - Final exits\n\nFINAL EXIT INSTRUCTIONS:\n• CLOSE all remaining Eclipse 4 positions\n• TARGET 2: +15% profit or best available\n• Begin systematic campaign closure\n• Prepare for final analysis phase\n\nCAMPAIGN COMPLETION TASKS:\n• Close all cycle completion positions\n• Cancel any outstanding orders\n• Calculate Eclipse 4 final returns\n• Tally total campaign performance\n\nCAMPAIGN ANALYSIS PREP:\n• Eclipse 1 results: ___% return\n• Eclipse 2 results: ___% return\n• Eclipse 3 results: ___% return (PRIMARY)\n• Eclipse 4 results: ___% return\n• TOTAL CAMPAIGN: ___% return\n\nSUCCESS METRICS:\n• Minimum: +25% campaign return\n• Good: +50% campaign return\n• Excellent: +100% campaign return\n• Maximum: +200% campaign return\n\nFINAL PHASE:\n• Sep 15: Complete position closure\n• Sep 30: Final campaign analysis\n• Archive all trading logs\n• Document lessons for future cycles\n\nCONGRATULATIONS!\nCompleted once-in-a-lifetime 54-year cycle opportunity!\nNext similar convergence: 2080
+CATEGORIES:Trade Exit,Campaign Completion,Final Exit
+LOCATION:Global Markets
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏁 FINAL ECLIPSE EXIT - Close all cycle completion positions
+TRIGGER:-PT4H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:CAMPAIGN COMPLETION - Prepare for final analysis phase
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+
 END:VCALENDAR
