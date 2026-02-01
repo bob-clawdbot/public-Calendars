@@ -8,8 +8,9 @@ This repository contains financial and astrological event calendars for trading 
 Complete 2026 Eclipse Trading Calendar featuring:
 
 - **4 Major Eclipse Events** with detailed trading strategies
-- **Preparation Events** with specific action items and timing
-- **Alert System** for position entry and preparation deadlines
+- **9 Preparation Events** with specific action items and timing
+- **8 Trade Exit Events** with profit taking and position management instructions
+- **Alert System** for position entry, exit windows, and preparation deadlines
 - **Historical Analysis** based on 54-year cycle patterns
 
 ## 🌒 2026 Eclipse Campaign
